@@ -1,1 +1,1 @@
-![img](https://github.com/mazznoer/mazznoer/blob/master/img/basic-hex.png)
+![Random Cool Colors](https://github.com/mazznoer/colorgrad/blob/master/img/random-cool.png)
