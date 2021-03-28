@@ -1,3 +1,4 @@
-<!--
-![img](https://github.com/mazznoer/colorgrad/blob/master/doc/images/noise.png)
--->
+You can support me via:
++ https://paypal.me/mazznoer
++ https://liberapay.com/mazznoer
++ https://ko-fi.com/mazznoer
