@@ -1,4 +1,2 @@
-You can support me via:
-+ https://paypal.me/mazznoer
-+ https://liberapay.com/mazznoer
-+ https://ko-fi.com/mazznoer
+[GitHub Sponsors](https://github.com/sponsors/mazznoer/) • [Ko-fi](https://ko-fi.com/mazznoer) • [Liberapay](https://liberapay.com/mazznoer) • [PayPal](https://paypal.me/mazznoer)
+
